@@ -1,0 +1,35 @@
+[
+    {
+        "protocol": "Netswap",
+        "chain": "Metis",
+        "logo": "",
+        "assets": "ENKI-Metis",
+        "boost": "2x ~ 10x",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity.",
+        "stakingPoints": "RETRO",
+        "link": "https://netswap.io/#/add/0x096a84536ab84e68ee210561ffd3a038e79736f1/0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+        "isActive": true
+    },
+    {
+        "protocol": "Netswap",
+        "chain": "Metis",
+        "logo": "",
+        "assets": "ENKI-NETT",
+        "boost": "2x ~ 10x",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity.",
+        "stakingPoints": "RETRO",
+        "link": "https://netswap.io/#/add/0x096a84536ab84e68ee210561ffd3a038e79736f1/0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+        "isActive": true
+    },
+    {
+        "protocol": "Hercules",
+        "chain": "Metis",
+        "logo": "",
+        "assets": "ENKI-m.USDC",
+        "boost": "2x ~ 10x",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity.",
+        "stakingPoints": "RETRO",
+        "link": "https://app.hercules.exchange/liquidity/?token1=0x096a84536ab84e68ee210561ffd3a038e79736f1&token2=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21&type=v2&position=lp",
+        "isActive": false
+    }
+]
