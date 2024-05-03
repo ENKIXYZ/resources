@@ -2,7 +2,7 @@
     {
         "protocol": "Netswap",
         "chain": "Metis",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/netswap.png",
         "assets": "ENKI-Metis",
         "boost": "2x ~ 10x",
         "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity.",
@@ -13,7 +13,7 @@
     {
         "protocol": "Netswap",
         "chain": "Metis",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/netswap.png",
         "assets": "ENKI-NETT",
         "boost": "2x ~ 10x",
         "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity.",
@@ -24,7 +24,7 @@
     {
         "protocol": "Hercules",
         "chain": "Metis",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/hercules.png",
         "assets": "ENKI-m.USDC",
         "boost": "2x ~ 10x",
         "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity.",
