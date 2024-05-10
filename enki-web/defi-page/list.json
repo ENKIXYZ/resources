@@ -5,7 +5,7 @@
         "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/netswap.png",
         "assets": "ENKI-Metis",
         "boost": "2x ~ 10x",
-        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity\" target=\"_blank\">here</a>.",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity\" target=\"_blank\">here</a>.",
         "stakingPoints": "RETRO",
         "link": "https://netswap.io/#/add/0x096a84536ab84e68ee210561ffd3a038e79736f1/0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
         "isActive": true
@@ -16,7 +16,7 @@
         "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/netswap.png",
         "assets": "ENKI-NETT",
         "boost": "2x ~ 10x",
-        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity\" target=\"_blank\">here</a>.",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity\" target=\"_blank\">here</a>.",
         "stakingPoints": "RETRO",
         "link": "https://netswap.io/#/add/0x096a84536ab84e68ee210561ffd3a038e79736f1/0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
         "isActive": true
@@ -27,9 +27,20 @@
         "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/hercules.png",
         "assets": "ENKI-m.USDC",
         "boost": "2x ~ 10x",
-        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be founded at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity\" target=\"_blank\">here</a>.",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity\" target=\"_blank\">here</a>.",
         "stakingPoints": "RETRO",
         "link": "https://app.hercules.exchange/liquidity/?token1=0x096a84536ab84e68ee210561ffd3a038e79736f1&token2=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21&type=v2&position=lp",
+        "isActive": false
+    },
+    {
+        "protocol": "Shoebill",
+        "chain": "Metis",
+        "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/shoebill.png",
+        "assets": "seMetis",
+        "boost": "2x",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for seMetis can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-emetis-and-semetis-liquidity\" target=\"_blank\">here</a>.",
+        "stakingPoints": "RETRO",
+        "link": "https://metis-metis.shoebill.finance/#/lending",
         "isActive": false
     }
 ]
