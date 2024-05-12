@@ -41,6 +41,6 @@
         "boostInfo": "Points earned will be retro-actively awarded. Boost rules for seMetis can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-emetis-and-semetis-liquidity\" target=\"_blank\">here</a>.",
         "stakingPoints": "RETRO",
         "link": "https://metis-metis.shoebill.finance/#/lending",
-        "isActive": false
+        "isActive": true
     }
 ]
