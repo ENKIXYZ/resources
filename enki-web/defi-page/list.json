@@ -30,7 +30,7 @@
         "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity\" target=\"_blank\">here</a>.",
         "stakingPoints": "RETRO",
         "link": "https://app.hercules.exchange/liquidity/?token1=0x096a84536ab84e68ee210561ffd3a038e79736f1&token2=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21&type=v2&position=lp",
-        "isActive": false
+        "isActive": true
     },
     {
         "protocol": "Shoebill",
