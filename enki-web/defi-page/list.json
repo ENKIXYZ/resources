@@ -22,6 +22,17 @@
         "isActive": true
     },
     {
+        "protocol": "Netswap",
+        "chain": "Metis",
+        "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/netswap.png",
+        "assets": "eMetis-Metis",
+        "boost": "5x",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for eMetis can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-emetis-and-semetis-liquidity\" target=\"_blank\">here</a>.",
+        "stakingPoints": "RETRO",
+        "link": "https://netswap.io/#/add/0x97a2de3a09f4a4229369ee82c7f76be1a5564661/0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+        "isActive": true
+    },
+    {
         "protocol": "Hercules",
         "chain": "Metis",
         "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/hercules.png",
@@ -30,6 +41,17 @@
         "boostInfo": "Points earned will be retro-actively awarded. Boost rules for ENKI liquidity can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-enki-liquidity\" target=\"_blank\">here</a>.",
         "stakingPoints": "RETRO",
         "link": "https://app.hercules.exchange/liquidity/?token1=0x096a84536ab84e68ee210561ffd3a038e79736f1&token2=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21&type=v2&position=lp",
+        "isActive": true
+    },
+    {
+        "protocol": "Hercules",
+        "chain": "Metis",
+        "logo": "https://raw.githubusercontent.com/ENKIXYZ/resources/main/enki-web/defi-page/logos/hercules.png",
+        "assets": "eMetis-Metis",
+        "boost": "5x",
+        "boostInfo": "Points earned will be retro-actively awarded. Boost rules for eMetis can be found at <a href=\"https://docs.enkixyz.com/getting-started/points-system/staking-points/boost-integrations#boost-rules-for-emetis-and-semetis-liquidity\" target=\"_blank\">here</a>.",
+        "stakingPoints": "RETRO",
+        "link": "https://app.hercules.exchange/liquidity?token1=0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481&token2=0x97a2de3A09F4A4229369ee82c7F76be1a5564661&type=v3&position=lp",
         "isActive": true
     },
     {
